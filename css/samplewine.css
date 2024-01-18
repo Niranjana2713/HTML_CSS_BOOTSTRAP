@@ -1,0 +1,15 @@
+
+body {
+    background-color: #745a63;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    overflow: hidden;
+}
+.wine-glass {
+    position: relative;
+    height: 350px;
+    width: 200px;
+}
+

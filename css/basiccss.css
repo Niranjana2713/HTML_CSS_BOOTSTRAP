@@ -1,0 +1,75 @@
+input
+{
+    background-color:rgb(239, 233, 229);
+    text-transform: uppercase;
+}
+label{
+    text-transform: uppercase;
+}
+table
+{
+ border-collapse:collapse ; width: 1000px; height: 100px;  border-color:rgb(16, 16, 16);
+}
+.table1
+{
+    text-align: center; border-color: rgb(163, 27, 27);
+    width: 1000px;height: 500px; border-collapse: collapse;
+    background-image: url(../newbg1.jpeg); background-repeat: no-repeat;
+    background-position: center; background-size: cover;
+}
+
+#headingtable 
+{
+ color: blue; font-size: x-large;
+}
+.table1{
+      text-decoration: blue;
+}
+
+
+#table3 
+{
+    
+    background-color:seablue;
+}
+
+
+
+#backgroundadd
+{
+    background-color: brown;
+}
+.table1{
+    -webkit-filter: brightness(200%);
+    filter: brightness(200%);
+}
+.table1{
+    -webkit-filter:grayscale(100%)
+    filter: grayscale(100);
+}
+.table2
+{
+    background-color: deeppink;
+}
+button
+{
+    color:crimson;
+}
+.table1{
+    -webkit-filter: blur(1px);
+    filter: opacity(1px);
+}
+.table1{
+    font-weight:bolder;
+}
+.table3
+{
+    -webkit-backdrop-filter: brightness(200%);
+    filter: brightness(200%);
+}
+.table2
+{
+    background-image: url(../NEWBG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
